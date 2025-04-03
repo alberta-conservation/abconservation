@@ -1,19 +1,17 @@
 ---
-title: "About Me"
+title: "About the Program"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/abc-program-icon.png
 ---
 
 :::{#me}
 
-## Goals
+## Projects
 
-## Education
-
-## Experience
+## Partners
 
 :::
 
-Thanks for checking out my web site!
+

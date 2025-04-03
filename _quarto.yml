@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - partners.qmd
     tools:
       - icon: github
         href: https://github.com/alberta-conservation/abconservation
